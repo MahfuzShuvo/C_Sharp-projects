@@ -1,0 +1,26 @@
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.exe.config
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.exe
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POS.pdb
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Form1.resources
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.exe
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.pdb
+c:\users\captain jack sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.main.resources
+C:\Users\Captain Jack Sparrow\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POSdb.mdf
+C:\Users\Captain Jack Sparrow\documents\visual studio 2015\Projects\POS\POS\bin\Debug\POSdb_log.ldf
+C:\Users\Captain Jack Sparrow\documents\visual studio 2015\Projects\POS\POS\obj\Debug\POS.Pay.resources
+E:\BUBT Study\Shuvo\C#\POS\POS\bin\Debug\POS.exe.config
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.exe
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.pdb
+E:\BUBT Study\Shuvo\C#\POS\POS\bin\Debug\POSdb.mdf
+E:\BUBT Study\Shuvo\C#\POS\POS\bin\Debug\POSdb_log.ldf
+E:\BUBT Study\Shuvo\C#\POS\POS\bin\Debug\POS.exe
+E:\BUBT Study\Shuvo\C#\POS\POS\bin\Debug\POS.pdb
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.Form1.resources
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.main.resources
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.Pay.resources
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.Properties.Resources.resources
+E:\BUBT Study\Shuvo\C#\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
