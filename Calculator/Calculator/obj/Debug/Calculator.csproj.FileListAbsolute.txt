@@ -1,0 +1,9 @@
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\BUBT Study\Shuvo\C# project\Calculator\Calculator\obj\Debug\Calculator.pdb
